@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "5B43002E-BC4A-4199-AE5A-2F9AD05F8BF1",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Tutorial"
