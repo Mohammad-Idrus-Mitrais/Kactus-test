@@ -47,9 +47,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD
           "blue": 0.5272029042243958,
           "green": 0.9127496480941772,
           "red": 0.7211930155754089
+=======
+          "blue": 0.1298772692680359,
+          "green": 0.8262341022491455,
+          "red": 0.4941504597663879
+>>>>>>> parent of 8a05e2c... change back logo color
         },
         "fillType": 0,
         "isEnabled": true,
